@@ -1,0 +1,17 @@
+    --dark-bg: #212121;
+    --dark-1: #303030;
+    --dark-2: #424242;
+    --blue-1: #0091EA;
+    --blue-2: #64C1FF;
+    --blue-3: #0064B7;
+
+
+amenos > almenos (vida es calcetines)
+
+Mejorar legibilidad tipografíca
+Arreglar las viñetas de Mis notas en webkit en Mozilla
+Agregar imagenes a cada "nota"
+Que en el "Hola" del Index aparezcan frases random cada vez que se refresca.
+Que el usuario pueda elegir un color de enfasís
+Traducir el sitio a Inglés
+Apartado donde pueda subir contenido
